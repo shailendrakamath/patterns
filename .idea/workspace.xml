@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41956599-3b0e-433b-9226-48893b8512d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/ResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/aws/AwsResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/aws/Ec2Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/aws/S3Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/gcp/GoogleCloudStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/gcp/GoogleComputeEngineInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/abstractfactory2/gcp/GoogleResourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/adapter/BusinessCardDesigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/adapter/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/adapter/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/adapter/EmployeeClassAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/adapter/EmployeeObjectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/bridge/ArrayLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/bridge/FifoCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/bridge/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/bridge/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/bridge/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/LeaveApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/LeaveApprover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/chainofresponsibility/ProjectLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/command/AddMemberCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/command/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/command/EWSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/command/MailTasksRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/composite/BinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/composite/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/composite/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/composite/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/decorator/Base64EncodedMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/decorator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/decorator/HtmlEncodedMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/decorator/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/decorator/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/EmailBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/EmailFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/HalloweenStationary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/Mailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/OrderEmailTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/Stationary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/StationaryFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/facade/email/TemplateFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/JSONMessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/MessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/TextMessageCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/message/JSONMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/factorymethod/message/TextMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/flyweight/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/flyweight/ErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/flyweight/ErrorMessageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/flyweight/SystemErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/flyweight/UserBannedErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/AndExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/ExpressionBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/NotExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/OrExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/PermissionExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/interpreter/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/iterator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/iterator/ThemeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/mediator/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/mediator/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/mediator/Slider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/mediator/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/mediator/UIControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/mediator/UIMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/Workflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/WorkflowDesigner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/command/AbstractWorkflowCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/command/AddStepCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/command/CreateCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/command/RemoveStepCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/memento/command/WorkflowCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/nullobject/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/nullobject/ComplexService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/nullobject/NullStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/nullobject/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/nullobject/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/objectpool/Bitmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/objectpool/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/objectpool/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/objectpool/ObjectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/objectpool/Poolable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/observer/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/observer/OrderObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/observer/PriceObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/observer/QuantityObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/prototype/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/prototype/GameUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/prototype/General.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/prototype/Swordsman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/BitmapImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/ImageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/dynamic/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/dynamic/ImageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/proxy/dynamic/ImageInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/simplefactory/BlogPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/simplefactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/simplefactory/NewsPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/simplefactory/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/simplefactory/PostFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/simplefactory/ProductPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/singleton/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/singleton/EagerRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/singleton/LazyRegistryIODH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/singleton/LazyRegistryWithDCL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/singleton/RegistryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/Cancelled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/Delivered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/InTransit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/OrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/state/Paid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/DetailPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/OrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/SummaryPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/strategy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/templatemethod/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/templatemethod/HtmlPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/templatemethod/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/templatemethod/OrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/templatemethod/TextPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/AbstractEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/AppraisalVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/PerformanceRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/PrintVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/ProjectLead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coffeepoweredcrew/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/UserDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/UserWebDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder/UserWebDTOBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cpc/dp/builder2/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bin5oA2Vss3gEfegh3Lw0VUoC0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/mailt/OneDrive/Desktop/interview/patterns/src/main/java",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mailt\OneDrive\Desktop\interview\patterns\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coffeepoweredcrew.abstractfactory2.Client" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coffeepoweredcrew.abstractfactory2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41956599-3b0e-433b-9226-48893b8512d3" name="Changes" comment="" />
+      <created>1706706587808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706706587808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
